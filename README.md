@@ -21,6 +21,10 @@ Study Churner Profile & Identify Areas for Implementing Marketing Campaigns
 Identify a Method to Predict Future Churners
 
 
+
+<img width="1877" height="982" alt="image" src="https://github.com/user-attachments/assets/ed83610f-4c28-43a2-811a-9e27a40b81d0" />
+
+
 **In this project tools useed are excel, power BI, jupyter notebook(python), SQL Server, and ML model - Random Forest.**
 
 **Randomforest** -- A random forest is a machine learning algorithm that consists of multiple decision trees. Each decision tree is trained on a random subset of the data and features. The final prediction is made by averaging the predictions (in regression tasks) or taking the majority vote (in classification tasks) from all the trees in the forest. This ensemble approach improves the accuracy and robustness of the model by reducing the risk of overfitting compared to using a single decision tree.
