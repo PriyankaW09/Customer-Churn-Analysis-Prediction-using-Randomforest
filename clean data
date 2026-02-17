@@ -1,0 +1,4 @@
+In this, by checking distinct value i have removed missing/NaN values first and inserted the new data into the Production table.
+Created two view form power bi, one is vw_ChurnData and 2nd is vw_joinData.
+for this i have use sql query, sql server 22 ssms 
+
